@@ -1,60 +1,24 @@
 # Psychology Research Portfolio
 
-This repository is the central index for my clinically focused psychology research portfolio.
+This repository brings together my independent psychology research projects, with a focus on psychological assessment, mental health and psychotherapy research.
 
-The portfolio is designed to demonstrate research methods competence, statistical reasoning, reproducible R workflows, psychological measurement skills, and clinically relevant academic communication.
+Projects use R for statistical analysis, data visualisation and reproducible scientific reporting.
 
-## Portfolio areas
+## Research Projects
 
-1. Psychometrics and psychological assessment
-2. Emotion regulation and psychopathology
-3. Dementia, neuropsychology, and caregiver wellbeing
-4. Systematic review / meta-analysis
+### PHQ-9 Psychometrics
 
-## Projects
+**Dataset:** NHANES 2017 to March 2020  
+**Status:** Analysis complete. Final quality assurance in progress.
 
-| Project | Status | Focus |
-|---|---|---|
-| [PHQ-9 NHANES Psychometrics](https://github.com/shane-hodson/phq9-nhanes-psychometrics) | Stage 1 complete; Stage 2A planned | Psychometrics, depression screening, weighted descriptives |
-| Emotion Regulation and Psychological Distress | Planned | Psychopathology mechanisms |
-| Dementia and Caregiver Wellbeing | Planned | Neuropsychology / clinical ageing |
-| Clinical Psychology Evidence Synthesis | Planned | Systematic review or meta-analysis |
+An independent study examining the reliability and dimensionality of the Patient Health Questionnaire-9 (PHQ-9), alongside its association with self-reported functional difficulty.
 
-## Current project
+Methods include complex survey analysis, ordinal reliability estimation, exploratory and confirmatory factor analysis, ordinal regression and spline modelling.
 
-The current active project is a psychometric evaluation of the PHQ-9 using NHANES 2017–March 2020 data.
+The repository and research report will be made available following final review.
 
-This project examines item responses, reliability, dimensionality, functional difficulty, and the limits of clinical interpretation in a public population-health dataset.
+## Research Approach
 
-Repository: [PHQ-9 NHANES Psychometrics](https://github.com/shane-hodson/phq9-nhanes-psychometrics)
+Each project aims to demonstrate clear research questions, appropriate statistical methods, reproducible R code and careful interpretation of findings.
 
-## Methods and tools
-
-- R
-- tidyverse
-- ggplot2
-- Quarto / R Markdown
-- GitHub
-- Reproducible research workflows
-- Survey-data cleaning and analysis
-- Regression and effect-size reporting
-- Psychometrics
-- Evidence synthesis
-
-## Research identity
-
-My developing research identity focuses on clinical psychology, psychopathology, psychological assessment, neuropsychology, dementia, mental-health services, and psychotherapy research.
-
-## Portfolio standard
-
-Each project should include:
-
-- a clear psychological or clinical research question;
-- transparent data cleaning and sample definition;
-- appropriate statistical methods;
-- effect sizes or uncertainty estimates where relevant;
-- reproducible R code;
-- a Quarto report;
-- a clinically bounded interpretation;
-- limitations;
-- an academic-voice and formatting check before public review.
+New projects will be added as they are completed.
